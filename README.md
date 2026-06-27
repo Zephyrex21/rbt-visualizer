@@ -92,6 +92,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## ⭐ Support
+## Support
 
 If you like this project, consider giving it a ⭐ on GitHub — it helps others discover it and motivates me to build more interactive visual tools!
